@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kaikespam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🔥 chama la no insta @wipex.unkind
+- 🔥procuro player de 4x4 (emulador)
+- 🔥estou interessado em jogar apostado 
+- 🔥e procuro alguem para pagar apostado
+- 🔥chama la no insta que nois troca um papo
 
 <!---
 kaikespam/kaikespam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
